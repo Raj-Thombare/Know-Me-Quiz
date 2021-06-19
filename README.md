@@ -7,4 +7,4 @@ so that it would be easy to play. I have used CHALK also to make it look colorfu
 
 You can play the Quiz, Click on the link below!
 
-CLICK HERE: https://replit.com/@RajThombare/KnowMeQuiz-2#index.js?embed=1&output=1
+CLICK HERE: https://replit.com/@RajThombare/KnowMeQuiz-2?embed=1&output=1#index.js
